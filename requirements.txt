@@ -1,1 +1,6 @@
 pydantic
+toml
+networkx
+matplotlib
+crimson-file-loader
+jinja2
